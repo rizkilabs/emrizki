@@ -1,5 +1,7 @@
 ### Hi, I'm Rizki 👋
 
+![Rizki's GitHub stats](https://github-readme-stats.vercel.app/api?username=emrizki&show_icons=true&theme=dark)
+
 - 🔭 I’m currently looking for a job
 - 🌱 I’m currently learning laravel in sanbercode intensive bootcamp
 - 👯 I'm open to collaborating on open source projects or something similar
