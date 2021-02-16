@@ -5,7 +5,7 @@
 - 👯 I'm open to collaborating on open source projects or something similar
 - 📫 How to reach me: ...
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"> 
 
 
 <!--
