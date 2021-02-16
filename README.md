@@ -3,7 +3,7 @@
 - 🔭 I’m currently looking for a job
 - 🌱 I’m currently learning laravel in sanbercode intensive bootcamp
 - 👯 I'm open to collaborating on open source projects or something similar
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/feedsbrain/https://www.linkedin.com/in/emrizki/)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/emrizki/)
 
 ### Languages & Coding Activity
 
