@@ -1,13 +1,16 @@
-### Hi there, I'm Rizki 👋
+### Hi, I'm Rizki 👋
 
 - 🔭 I’m currently looking for a job
 - 🌱 I’m currently learning laravel in sanbercode intensive bootcamp
 - 👯 I'm open to collaborating on open source projects or something similar
 - 📫 How to reach me: ...
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"> 
+### Coding Activity
 
+<a href="https://wakatime.com/@923b2fa8-14f8-47e0-8b7a-54d94f1cb4aa"><img alt="WakaTime Language" src="https://wakatime.com/share/@923b2fa8-14f8-47e0-8b7a-54d94f1cb4aa/1275a3db-9378-4a5b-8222-805e1c5535b5.svg" aligh="center" width="50%"/></a><a href="https://wakatime.com/@923b2fa8-14f8-47e0-8b7a-54d94f1cb4aa"><img alt="WakaTime Activity" src="https://wakatime.com/share/@923b2fa8-14f8-47e0-8b7a-54d94f1cb4aa/e690d227-e7db-4fbc-8ec9-89646f15071f.svg" aligh="center" width="50%"/></a>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <!--
 **emrizki/emrizki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
