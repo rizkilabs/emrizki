@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Rizki 👋
+
+- 🔭 I’m currently looking for a job
+- 🌱 I’m currently learning laravel in sanbercode intensive bootcamp
+- 👯 I'm open to collaborating on open source projects or something similar
+- 📫 How to reach me: ...
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
 
 <!--
 **emrizki/emrizki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
