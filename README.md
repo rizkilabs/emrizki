@@ -57,14 +57,13 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Blade Template           31 mins             ████████████░░░░░░░░░░░░░   50.88% 
-PHP                      30 mins             ████████████░░░░░░░░░░░░░   49.12%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 2 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 2 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
