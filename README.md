@@ -20,7 +20,7 @@
 
 > 🏆 184 Contributions in the Year 2021
  > 
-> 📦 28.9 kB Used in Github's Storage 
+> 📦 29.4 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,13 +57,14 @@ Sunday       2 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-HTML                     2 hrs 43 mins       █████████████████████████   100.0%
+HTML                     3 hrs 17 mins       █████████████████░░░░░░░░   71.49% 
+CSS                      1 hr 18 mins        ███████░░░░░░░░░░░░░░░░░░   28.51%
 
 🔥 Editors: 
-VS Code                  2 hrs 43 mins       █████████████████████████   100.0%
+VS Code                  4 hrs 35 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    2 hrs 43 mins       █████████████████████████   100.0%
+Linux                    4 hrs 35 mins       █████████████████████████   100.0%
 
 ```
 
@@ -84,7 +85,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/emrizki/emrizki/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/06/2021
+ Last Updated on 11/06/2021
 <!--END_SECTION:waka-->
 <!--
 **emrizki/emrizki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
