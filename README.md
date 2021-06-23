@@ -14,7 +14,7 @@
 <a href="https://wakatime.com/@923b2fa8-14f8-47e0-8b7a-54d94f1cb4aa"><img alt="WakaTime Language" src="https://wakatime.com/share/@923b2fa8-14f8-47e0-8b7a-54d94f1cb4aa/1275a3db-9378-4a5b-8222-805e1c5535b5.svg" aligh="center" width="50%"/></a><a href="https://wakatime.com/@923b2fa8-14f8-47e0-8b7a-54d94f1cb4aa"><img alt="WakaTime Activity" src="https://wakatime.com/share/@923b2fa8-14f8-47e0-8b7a-54d94f1cb4aa/e690d227-e7db-4fbc-8ec9-89646f15071f.svg" aligh="center" width="50%"/></a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+<!-- ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My Github Data** 
 
@@ -35,7 +35,7 @@
 🌆 Daytime    69 commits     ██████████░░░░░░░░░░░░░░░   40.12% 
 🌃 Evening    58 commits     ████████░░░░░░░░░░░░░░░░░   33.72% 
 🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16%
-
+ -->
 ```
 <!-- 📅 **I'm Most Productive on Monday** 
 
