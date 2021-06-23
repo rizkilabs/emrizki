@@ -37,7 +37,7 @@
 🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16%
 
 ```
-📅 **I'm Most Productive on Monday** 
+<!-- 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday       40 commits     █████░░░░░░░░░░░░░░░░░░░░   23.26% 
@@ -48,10 +48,10 @@ Friday       17 commits     ██░░░░░░░░░░░░░░░�
 Saturday     17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.88% 
 Sunday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.74%
 
-```
+``` -->
 
 
-📊 **This Week I Spent My Time On** 
+<!-- 📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Asia/Jakarta
@@ -69,9 +69,9 @@ VS Code                  3 hrs 1 min         ███████████�
 💻 Operating System: 
 Linux                    3 hrs 1 min         █████████████████████████   100.0%
 
-```
+``` -->
 
-**I Mostly Code in HTML** 
+<!-- **I Mostly Code in HTML** 
 
 ```text
 HTML                     8 repos             ████████████░░░░░░░░░░░░░   50.0% 
@@ -80,15 +80,15 @@ CSS                      2 repos             ███░░░░░░░░�
 PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
 SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
 
-```
+``` -->
 
 
-**Timeline**
+<!-- **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/emrizki/emrizki/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/06/2021
+ Last Updated on 23/06/2021 -->
 <!--END_SECTION:waka-->
 <!--
 **emrizki/emrizki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
