@@ -20,18 +20,18 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     1 hr 13 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 13 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 13 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 06/07/2021
+ Last Updated on 07/07/2021
 <!--END_SECTION:waka-->
 <!--
 **emrizki/emrizki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
