@@ -32,7 +32,7 @@ Linux                    4 hrs 49 mins       ███████████�
 ```
 
 
- Last Updated on 15/07/2021
+ Last Updated on 16/07/2021
 <!--END_SECTION:waka-->
 <!--
 **emrizki/emrizki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
