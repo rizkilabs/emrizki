@@ -14,26 +14,26 @@
 <a href="https://wakatime.com/@923b2fa8-14f8-47e0-8b7a-54d94f1cb4aa"><img alt="WakaTime Language" src="https://wakatime.com/share/@923b2fa8-14f8-47e0-8b7a-54d94f1cb4aa/1275a3db-9378-4a5b-8222-805e1c5535b5.svg" aligh="center" width="50%"/></a><a href="https://wakatime.com/@923b2fa8-14f8-47e0-8b7a-54d94f1cb4aa"><img alt="WakaTime Activity" src="https://wakatime.com/share/@923b2fa8-14f8-47e0-8b7a-54d94f1cb4aa/e690d227-e7db-4fbc-8ec9-89646f15071f.svg" aligh="center" width="50%"/></a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-CSS                      5 hrs 53 mins       ████████████████░░░░░░░░░   66.39% 
-HTML                     2 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   33.53% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
+CSS                      8 hrs 12 mins       ██████████████░░░░░░░░░░░   58.57% 
+HTML                     5 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   41.38% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 🔥 Editors: 
-VS Code                  8 hrs 51 mins       █████████████████████████   100.0%
+VS Code                  14 hrs              █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    8 hrs 51 mins       █████████████████████████   100.0%
+Linux                    14 hrs              █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 17/07/2021
+ Last Updated on 18/07/2021
 <!--END_SECTION:waka-->
 <!--
 **emrizki/emrizki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
