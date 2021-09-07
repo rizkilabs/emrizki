@@ -8,7 +8,7 @@
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/emrizki/)
 
 ```diff
-+ this text is highlighted in green
++ Edabit Profile
 - this text is highlighted in red
 ```
 
