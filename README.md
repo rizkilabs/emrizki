@@ -8,8 +8,7 @@
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/emrizki/)
 
 ```diff
-+ Edabit Profile
-- this text is highlighted in red
++ ###Edabit Profile
 ```
 
 ![Rizki's GitHub stats](https://github-readme-stats.vercel.app/api?username=emrizki&show_icons=true&theme=dark)
