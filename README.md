@@ -7,7 +7,10 @@
 - 👯 I'm open to collaborating on open source projects or something similar
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/emrizki/)
 
-<p><span style="color: green">Edabit Profile</span></p>
+```diff
++ this text is highlighted in green
+- this text is highlighted in red
+```
 
 ![Rizki's GitHub stats](https://github-readme-stats.vercel.app/api?username=emrizki&show_icons=true&theme=dark)
 
