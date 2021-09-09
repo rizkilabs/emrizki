@@ -7,9 +7,7 @@
 - 👯 I'm open to collaborating on open source projects or something similar
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/emrizki/)
 
-```diff
-+ ###Edabit Profile
-```
+### ![Edabit Profile](https://edabit.com/user/5S46ABN9sBFdPhMw3)
 
 ![Rizki's GitHub stats](https://github-readme-stats.vercel.app/api?username=emrizki&show_icons=true&theme=dark)
 
