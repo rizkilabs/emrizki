@@ -7,7 +7,7 @@
 - 👯 I'm open to collaborating on open source projects or something similar
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/emrizki/)
 
-https://www.codewars.com/users/emrizki/badges/large
+<img src="https://www.codewars.com/users/emrizki/badges/large">
 
 ![Rizki's GitHub stats](https://github-readme-stats.vercel.app/api?username=emrizki&show_icons=true&theme=dark)
 
