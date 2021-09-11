@@ -36,6 +36,8 @@ Linux                    8 hrs 25 mins       ███████████�
 
 ```
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrizki&layout=compact)](https://github.com/emrizki/github-readme-stats)
+
 
  Last Updated on 11/09/2021
 <!--END_SECTION:waka-->
