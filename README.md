@@ -16,30 +16,28 @@
 <a href="https://wakatime.com/@923b2fa8-14f8-47e0-8b7a-54d94f1cb4aa"><img alt="WakaTime Language" src="https://wakatime.com/share/@923b2fa8-14f8-47e0-8b7a-54d94f1cb4aa/1275a3db-9378-4a5b-8222-805e1c5535b5.svg" aligh="center" width="50%"/></a><a href="https://wakatime.com/@923b2fa8-14f8-47e0-8b7a-54d94f1cb4aa"><img alt="WakaTime Activity" src="https://wakatime.com/share/@923b2fa8-14f8-47e0-8b7a-54d94f1cb4aa/e690d227-e7db-4fbc-8ec9-89646f15071f.svg" aligh="center" width="50%"/></a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-JavaScript               4 hrs 40 mins       ██████████████░░░░░░░░░░░   55.58% 
-HTML                     1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   21.45% 
-JSON                     1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.58% 
-Text                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.29% 
-CSS                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.56%
+JavaScript               5 hrs 34 mins       ███████████████░░░░░░░░░░   62.84% 
+HTML                     1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.67% 
+JSON                     1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.92% 
+Text                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.28% 
+CSS                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.82%
 
 🔥 Editors: 
-VS Code                  8 hrs 25 mins       █████████████████████████   100.0%
+VS Code                  8 hrs 52 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    8 hrs 25 mins       █████████████████████████   100.0%
+Linux                    8 hrs 52 mins       █████████████████████████   100.0%
 
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrizki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
- Last Updated on 11/09/2021
+ Last Updated on 12/09/2021
 <!--END_SECTION:waka-->
 <!--
 **emrizki/emrizki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
