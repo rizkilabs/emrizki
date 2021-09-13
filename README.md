@@ -16,28 +16,28 @@
 <a href="https://wakatime.com/@923b2fa8-14f8-47e0-8b7a-54d94f1cb4aa"><img alt="WakaTime Language" src="https://wakatime.com/share/@923b2fa8-14f8-47e0-8b7a-54d94f1cb4aa/1275a3db-9378-4a5b-8222-805e1c5535b5.svg" aligh="center" width="50%"/></a><a href="https://wakatime.com/@923b2fa8-14f8-47e0-8b7a-54d94f1cb4aa"><img alt="WakaTime Activity" src="https://wakatime.com/share/@923b2fa8-14f8-47e0-8b7a-54d94f1cb4aa/e690d227-e7db-4fbc-8ec9-89646f15071f.svg" aligh="center" width="50%"/></a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-JavaScript               5 hrs 34 mins       ███████████████░░░░░░░░░░   62.84% 
-HTML                     1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.67% 
-JSON                     1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.92% 
-Text                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.28% 
-CSS                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.82%
+JavaScript               7 hrs 6 mins        ██████████████████░░░░░░░   72.21% 
+HTML                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.85% 
+JSON                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.75% 
+CSS                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.01% 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.17%
 
 🔥 Editors: 
-VS Code                  8 hrs 52 mins       █████████████████████████   100.0%
+VS Code                  9 hrs 50 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    8 hrs 52 mins       █████████████████████████   100.0%
+Linux                    9 hrs 50 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 12/09/2021
+ Last Updated on 13/09/2021
 <!--END_SECTION:waka-->
 <!--
 **emrizki/emrizki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
