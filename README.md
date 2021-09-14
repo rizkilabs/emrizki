@@ -16,28 +16,28 @@
 <a href="https://wakatime.com/@923b2fa8-14f8-47e0-8b7a-54d94f1cb4aa"><img alt="WakaTime Language" src="https://wakatime.com/share/@923b2fa8-14f8-47e0-8b7a-54d94f1cb4aa/1275a3db-9378-4a5b-8222-805e1c5535b5.svg" aligh="center" width="50%"/></a><a href="https://wakatime.com/@923b2fa8-14f8-47e0-8b7a-54d94f1cb4aa"><img alt="WakaTime Activity" src="https://wakatime.com/share/@923b2fa8-14f8-47e0-8b7a-54d94f1cb4aa/e690d227-e7db-4fbc-8ec9-89646f15071f.svg" aligh="center" width="50%"/></a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-JavaScript               7 hrs 6 mins        ██████████████████░░░░░░░   72.21% 
-HTML                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.85% 
-JSON                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.75% 
-CSS                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.01% 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.17%
+JavaScript               10 hrs 2 mins       ███████████████████░░░░░░   78.97% 
+JSON                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.69% 
+HTML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.21% 
+CSS                      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.29% 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9%
 
 🔥 Editors: 
-VS Code                  9 hrs 50 mins       █████████████████████████   100.0%
+VS Code                  12 hrs 42 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    9 hrs 50 mins       █████████████████████████   100.0%
+Linux                    12 hrs 42 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 13/09/2021
+ Last Updated on 14/09/2021
 <!--END_SECTION:waka-->
 <!--
 **emrizki/emrizki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
