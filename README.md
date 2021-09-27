@@ -2,8 +2,8 @@
 
 <img align='right' src="https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="230">
 
-- 🔭 I’m currently looking for a job
-- 🌱 I’m currently join bootcamp at binar academy for Full Stack Web Development Program
+<!-- - 🔭 I’m currently looking for a job -->
+<!-- - 🌱 I’m currently join bootcamp at binar academy for Full Stack Web Development Program -->
 - 👯 I'm open to collaborating on open source projects or something similar
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/emrizki/)
 
