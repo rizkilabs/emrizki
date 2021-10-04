@@ -16,28 +16,28 @@
 <a href="https://wakatime.com/@923b2fa8-14f8-47e0-8b7a-54d94f1cb4aa"><img alt="WakaTime Language" src="https://wakatime.com/share/@923b2fa8-14f8-47e0-8b7a-54d94f1cb4aa/1275a3db-9378-4a5b-8222-805e1c5535b5.svg" aligh="center" width="50%"/></a><a href="https://wakatime.com/@923b2fa8-14f8-47e0-8b7a-54d94f1cb4aa"><img alt="WakaTime Activity" src="https://wakatime.com/share/@923b2fa8-14f8-47e0-8b7a-54d94f1cb4aa/e690d227-e7db-4fbc-8ec9-89646f15071f.svg" aligh="center" width="50%"/></a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 hrs 1 min         █████████████████░░░░░░░░   67.86% 
-EJS                      29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.77% 
-HTML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.2% 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.46% 
+JavaScript               2 hrs 2 mins        █████████████████░░░░░░░░   68.0% 
+EJS                      29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.69% 
+HTML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.16% 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.44% 
 Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47%
 
 🔥 Editors: 
-VS Code                  2 hrs 58 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 59 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    2 hrs 58 mins       █████████████████████████   100.0%
+Linux                    2 hrs 59 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 03/10/2021
+ Last Updated on 04/10/2021
 <!--END_SECTION:waka-->
 <!--
 **emrizki/emrizki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
