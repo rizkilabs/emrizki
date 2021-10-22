@@ -22,21 +22,18 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               6 mins              ███████████████████████░░   95.14% 
-Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.85% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    6 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 21/10/2021
+ Last Updated on 22/10/2021
 <!--END_SECTION:waka-->
 <!--
 **emrizki/emrizki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
