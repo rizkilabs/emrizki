@@ -18,7 +18,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
-📊 **This Week I Spent My Time On** 
+<!-- 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
@@ -31,7 +31,7 @@ VS Code                  0 secs              ███████████�
 💻 Operating System: 
 Linux                    0 secs              █████████████████████████   100.0%
 
-```
+``` -->
 
 
  Last Updated on 01/11/2021
