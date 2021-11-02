@@ -18,7 +18,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
-📊 **This Week I Spent My Time On** 
+<!-- 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
@@ -30,7 +30,7 @@ No Activity Tracked This Week
 💻 Operating System: 
 No Activity Tracked This Week
 
-```
+``` -->
 
 
  Last Updated on 02/11/2021
