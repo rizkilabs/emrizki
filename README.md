@@ -18,23 +18,22 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
-<!-- 📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-JavaScript               0 secs              █████████████████████████   100.0% 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
-``` -->
+```
 
 
- Last Updated on 01/11/2021
+ Last Updated on 02/11/2021
 <!--END_SECTION:waka-->
 <!--
 **emrizki/emrizki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
